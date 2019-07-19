@@ -442,4 +442,12 @@ h5 {
         height: 130px;
     }
 
+    .copyright {
+        text-align: center;
+    }
+
+    .credits {
+        padding-left: 140px;
+    }
+
 }
