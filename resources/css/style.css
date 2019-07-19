@@ -163,8 +163,8 @@ header {
     color: white;
     font-family: 'Roboto';
     font-size: 34px;
-    margin-top: 150px;
-    text-align: right;
+    margin-top: 510px;
+    text-align: left;
     
 }
 
@@ -172,11 +172,11 @@ header {
     color: white;
     font-family: 'Roboto';
     font-size: 20px;
-    text-align: right;
+    text-align: left;
 }
 
 .flotte {
-    float:right;
+    float:left;
     margin-right: 20px;
 }
 
