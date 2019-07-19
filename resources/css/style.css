@@ -165,6 +165,7 @@ header {
     font-size: 34px;
     margin-top: 510px;
     text-align: left;
+    margin-left: 10px;
     
 }
 
@@ -173,11 +174,13 @@ header {
     font-family: 'Roboto';
     font-size: 20px;
     text-align: left;
+    margin-left: 10px;
 }
 
 .flotte {
     float:left;
     margin-right: 20px;
+    margin-left: 10px;
 }
 
 /* SECTION
@@ -376,6 +379,22 @@ h5 {
 ============================================== */
 
 @media screen and (max-width: 812px) {
+
+    header {
+        background-image: url(../images/affiches.png);
+        height: 100vh;
+        background-position: center;
+        background-size:cover;
+        position: relative;
+    
+    }
+
+    .soustitre2 {
+
+        margin-top: 800px;
+
+        
+    }
 
     img .navbar-brand {
 
