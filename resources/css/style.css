@@ -130,7 +130,7 @@ p {
 ============================================== */
 
 header {
-    background-image: linear-gradient(130deg,rgba(243, 146, 0,0.75),rgba(227, 6, 19,0.75)), url(../images/affiche.jpg);
+    background-image: url(../images/affiche.jpg);
     height: 100vh;
     background-position: center;
     background-size: cover;
