@@ -104,6 +104,8 @@ p {
 
 .menu {
     font-family: 'Roboto';
+    text-transform: uppercase;
+    font-weight: bold;
     font-size: 20px;
     margin-top: 15px;
     margin-bottom: 15px;
@@ -119,6 +121,7 @@ p {
     padding:30px 40px;
     text-align:center;
     margin:0px;
+    text-decoration: none;
 }
 
 .navbar-light {
