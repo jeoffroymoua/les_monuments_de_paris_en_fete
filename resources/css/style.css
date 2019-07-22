@@ -147,7 +147,7 @@ hr {
 .titre1 {
     color: white;
     font-family: 'Roboto';
-    font-size: 34px;
+    font-size: 50px;
     margin-top: 310px;
     text-align: left;
     margin-left: 10px;
@@ -157,7 +157,7 @@ hr {
 .titre2 {
     color: white;
     font-family: 'Roboto';
-    font-size: 20px;
+    font-size: 36px;
     text-align: left;
     margin-left: 10px;
 }
